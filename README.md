@@ -1,4 +1,4 @@
-# 🌍 TravelSite2_Responsive
+# 🌍 TravelSite_Responsive
 
 A modern and fully responsive **Travel Website Template** built using **HTML5**, **CSS3**, and **JavaScript**.  
 It showcases beautiful destinations, tour packages, and travel experiences — perfectly optimized for all screen sizes, from desktops to mobile phones.  
